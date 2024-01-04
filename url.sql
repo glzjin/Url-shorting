@@ -18,5 +18,6 @@ CREATE TABLE `shorturl` (
   `url` mediumtext NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+test
 
 -- 2020-06-07 13:28:49
